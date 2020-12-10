@@ -1,0 +1,47 @@
+.skyscraperPage {
+    display: flex;
+    color: white;
+    font-family: 'Krona One', sans-serif;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.homeButton {
+    box-shadow: 0px 0px 31px -5px rgba(0,0,0,0.75);
+    background-color: blue;
+    height: 50px;
+    width: 150px;
+    border-radius: 7px 7px 7px 7px;
+    :hover {
+        box-shadow: 0px 0px 39px 0px rgba(255,255,255,1);
+        border-radius: 7px 7px 7px 7px;
+    }
+}
+
+.homeButtonText {
+    color: white;
+    text-decoration: none;
+    font-family: 'Krona One', sans-serif;
+}
+
+.scraperInfo {
+    padding: 10px;
+}
+
+.scraperImage {
+    padding: 10px;
+    img{
+        width: 100%;
+    }
+}
+
+.navigationScraperPage {
+    display: flex;
+    justify-content: center;
+}
+
+.infoAndImage {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}

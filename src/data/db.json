@@ -1,0 +1,153 @@
+{
+    "skyscrapers": [
+        {
+            "id": 1,
+            "name": "Varso Tower",
+            "city": "Warsaw",
+            "country": "Poland",
+            "build": 2020,
+            "floors": 54,
+            "antena": "",
+            "spire": 310,
+            "roof": "",
+            "image":"/pictures/1VarsoTowerN.png",
+            "lat": 52.2289,
+            "lng": 21.0000
+        },
+    
+        {
+            "id": 2,
+            "name": "Palace of Culture and Science",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 1955, 
+            "floors": 43,
+            "antena": "",
+            "spire": 230.7, 
+            "roof": 187.8,
+            "image":"/pictures/2PKiNN.png",
+            "lat": 52.2316,
+            "lng": 21.0060
+        },
+
+        {
+            "id": 3,
+            "name": "Warsaw Spire",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 2016, 
+            "floors": 49,
+            "antena": "",
+            "spire": 220, 
+            "roof": 180,
+            "image":"/pictures/3WarsawSpireN.png",
+            "lat": 52.2322,
+            "lng": 20.9842
+        },
+
+        {
+            "id": 4,
+            "name": "Warsaw UNIT",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 2020, 
+            "floors": 46,
+            "antena": "",
+            "spire": 203, 
+            "roof": 203,
+            "image":"/pictures/4WarsawUnitN.png",
+            "lat": 52.2301,
+            "lng": 20.9859
+        },
+
+        {
+            "id": 5,
+            "name": "Skykiner",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 2020, 
+            "floors": 44,
+            "antena": "",
+            "spire": "", 
+            "roof": 195,
+            "image":"/pictures/5SkylinerN.png",
+            "lat": 52.2294,
+            "lng": 20.98336
+        },
+
+        {
+            "id": 6,
+            "name": "Zlota 44",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 2014, 
+            "floors": 54,
+            "antena": "",
+            "spire": "", 
+            "roof": 192,
+            "image":"/pictures/6Zlota44.png",
+            "lat": 52.2311,
+            "lng": 21.0025
+        },
+
+        {
+            "id": 7,
+            "name": "Warsaw Trade Tower",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 1999, 
+            "floors": 43,
+            "antena": 208,
+            "spire": "", 
+            "roof": 187.2,
+            "image":"/pictures/7WarsawTradeTower.png",
+            "lat": 52.2353,
+            "lng": 20.9825
+        },
+
+        {
+            "id": 8,
+            "name": "InterContinental",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 2003, 
+            "floors": 48,
+            "antena": "",
+            "spire": "", 
+            "roof": 163.5,
+            "image":"/pictures/8InterContinental.png",
+            "lat": 52.2324,
+            "lng": 21.0023
+        },
+
+        {
+            "id": 9,
+            "name": "Twarda Tower",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 2013, 
+            "floors": 42,
+            "antena": "",
+            "spire": "", 
+            "roof": 160,
+            "image":"/pictures/9TwardaTower.png",
+            "lat": 52.2355,
+            "lng": 21.0017
+        },
+
+        {
+            "id": 10,
+            "name": "Rondo 1",
+            "city": "Warsaw",
+            "country": "Poland", 
+            "build": 2006, 
+            "floors": 40,
+            "antena": "",
+            "spire": "", 
+            "roof": 159.1,
+            "image":"/pictures/10Rondo1.png",
+            "lat": 52.2328,
+            "lng": 20.9995
+        }
+    ]      
+}

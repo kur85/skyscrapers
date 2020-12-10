@@ -1,0 +1,71 @@
+.header {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: rgba(15,15,219,1);
+    opacity: 90%;
+    font-family: 'Krona One', sans-serif;
+    border-radius: 45px 45px 45px 45px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    // border: solid 5px white;
+    // box-shadow: inset 0px 0px 20px 0px rgba(255,255,255,1);
+    box-shadow: inset 0px 0px 10px 10px rgba(255,255,255,1);
+    // box-shadow: 0px 0px 11px 4px rgba(255,255,255,1);
+}
+
+.title {
+    display: flex;
+    width: 500px;
+    font-size: 50px;
+    color: white;
+    padding: 20px;
+    font-family: 'Krona One', sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 50px;
+}
+
+.menu {
+    display: flex;
+    width: 500px;
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+    font-size: 16px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.menu li {
+    display: flex;
+    margin: 10px;
+    list-style-type: none;
+    align-items: center;
+    justify-content: start;
+  }
+  .menu a {
+    display: flex;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #8E9696;
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .menu a:hover {
+    color: white;
+    
+  }
+
+ 
+  
